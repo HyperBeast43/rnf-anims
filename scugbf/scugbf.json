@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				55
+			],
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "the_rapper_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				48
+			],
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "the_rapper_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				6
+			],
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "the_rapper_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				82
+			],
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "the_rapper_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				60
+			],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "the_rapper_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				51
+			],
+			"fps": 22,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "the_rapper_missleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				9
+			],
+			"fps": 22,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "the_rapper_missdown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				91
+			],
+			"fps": 22,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "the_rapper_missup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				64
+			],
+			"fps": 22,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "the_rapper_missright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				66
+			],
+			"fps": 6,
+			"anim": "Death",
+			"indices": [],
+			"name": "the_rapper_die"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/the_rapper",
+	"position": [
+		200,
+		600
+	],
+	"healthicon": "scugbf",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		155,
+		255
+	],
+	"camera_position": [
+		0,
+		-180
+	],
+	"sing_duration": 8,
+	"scale": 3
+}
